@@ -17,6 +17,51 @@
       ],
       "relations": [
         {
+          "id": "chiselandbits",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:231095:2720655",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "chisel",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:235279:2915375",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "bhc",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:282947:2682612",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
           "id": "ftbguides",
           "file": {
             "installer": "internal.dir:mods",
@@ -1536,21 +1581,6 @@
           "file": {
             "installer": "internal.dir:mods",
             "artifact": "curse.maven:286652:2528002",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
-          "id": "233040",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:233040:2477850",
             "repository": "curse"
           },
           "type": "mod",
